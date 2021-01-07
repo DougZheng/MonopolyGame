@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorHeader">#1F0000FF</color>
+    <color name="colorBoard">#330000FF</color>
+    <color name="colorBody">#440000FF</color>
+    <color name="colorEventWnd">#330000FF</color>
+    <color name="colorDog">#3FFF9900</color>
+    <color name="colorHorse">#3F663333</color>
+    <color name="colorFrog">#3F33FF33</color>
+    <color name="colorCock">#3FFF3333</color>
+    <color name="colorButtonA">#7FFF6600</color>
+    <color name="colorButtonB">#7F8F837A</color>
+    <color name="colorText">#404040</color>
+</resources>
