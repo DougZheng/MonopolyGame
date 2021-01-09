@@ -1,5 +1,5 @@
 # MonopolyGame
-This is a project for UML course. It is a monopoly game based on Android.
+This is a project for course *Analysis Design and Modeling of Software Requirement*. It is a monopoly game based on Android.
 ## Requirements
 - Android Platform
 ## Getting Started
